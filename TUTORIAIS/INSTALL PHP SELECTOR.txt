@@ -1,0 +1,8 @@
+# Diretório
+cd
+# Download do arquivo
+wget https://github.com/Skamasle/sk-php-selector/blob/master/sk-php-selector.sh
+# Permições para executar arquivo
+chmod -R 777 /root/sk-php-selector.sh
+# Executar Arquivo
+./sk-php-selector.sh
